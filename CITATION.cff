@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+
+title: "Test Project"
+
+message: >
+  If you use this software, please cite it using the metadata below.
+  A Zenodo DOI will be provided when available.
+
+type: software
+
+authors:
+  - given-names: "Test"
+    family-names: "User"
+    affiliation: "University of Oulu"
+    email: "diwa.vre.user@gmail.com"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+
+
+
+identifiers:
+  - type: url
+    value: "https://github.com/diwa-vre-user/another_test_project"
+    description: GitHub repository
+
+
+
+repository-code: "https://github.com/diwa-vre-user/another_test_project"
+
+url: "https://github.com/diwa-vre-user/another_test_project"
+
+abstract: >
+  A test project
+
+keywords:
+  - research
+  - open-science
+  - reproducibility
+
+license: "MIT"
+
+version: "0.1.0"
+
+date-released: "2026"
